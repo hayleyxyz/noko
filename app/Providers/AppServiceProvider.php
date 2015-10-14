@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Noko\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

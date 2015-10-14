@@ -143,10 +143,10 @@ return [
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        Noko\Providers\AppServiceProvider::class,
+        Noko\Providers\AuthServiceProvider::class,
+        Noko\Providers\EventServiceProvider::class,
+        Noko\Providers\RouteServiceProvider::class,
 
     ],
 
