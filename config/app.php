@@ -147,6 +147,7 @@ return [
         Noko\Providers\AuthServiceProvider::class,
         Noko\Providers\EventServiceProvider::class,
         Noko\Providers\RouteServiceProvider::class,
+        Noko\Providers\BoardServiceProvider::class,
 
     ],
 
